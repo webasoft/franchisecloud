@@ -1,2 +1,16 @@
+.master-header {
+  min-height: 50px;
+  background-color: #333;
+  color: #eee; }
+
+.master-footer {
+  min-height: 50px;
+  background-color: #333;
+  color: #eee; }
+
 body {
-  padding: 0px; }
+  margin: 0px;
+  background-color: #eee; }
+
+.main {
+  background-color: #777; }

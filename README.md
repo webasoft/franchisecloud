@@ -1,1 +1,0 @@
-# franchisecloud Application
