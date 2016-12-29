@@ -1,0 +1,23 @@
+.row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
+.row > [class*='col-'] {
+	 display: flex;
+	 flex-direction: column;
+}
+
+
+
+
+.panel-default >.panel-heading {
+  background-color: $brand-white;
+}
+
+.panel {
+  border-radius: 0;
+}
+
+

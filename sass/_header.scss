@@ -2,6 +2,10 @@
 
 .master-header {
     min-height: 50px;
-    background-color: $brand-gray-dark;
+    background-color: $brand-green;
     color: $brand-gray-lighter;
+}
+
+.subheader {
+    min-height: 40px;
 }
